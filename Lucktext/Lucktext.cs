@@ -1,5 +1,4 @@
-﻿
-string name;
+﻿string name;
 string age;
 string person;
 string place;
