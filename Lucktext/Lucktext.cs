@@ -18,4 +18,3 @@ place = Console.ReadLine ();
 
 Console.WriteLine($"Today {name} died in {place} at the age of {age} by the hands of {person}. They will not be missed.");
 Console.ReadLine ();
-
